@@ -4,3 +4,6 @@ If the antiban does not work, contact me and I will fix it for YOU.
 If you have any questions or complaints, contact me and stuff
 Download the appropriate applications in order to manage these hacks. 
 NEEDED: Tampermonkey
+
+
+(NOTE: THE SCRIPT NEEDS UPDATING, WE ARE WORKING ON IT RIGHT THIS MOMENT, PLEASE BE PATIENT)
